@@ -20,7 +20,7 @@
 
 - Dataset
 
-  Download `ml-latest-small.zip` [here](https://grouplens.org/datasets/movielens/latest/)
+  Download `ml-latest-small.zip` from [here](https://grouplens.org/datasets/movielens/latest/)
   
   Alternatively, you can clone this repository and use `data\ml-latest-small` directly without downloading the dataset.
   
